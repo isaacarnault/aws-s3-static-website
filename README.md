@@ -56,14 +56,8 @@ It can help you as a web entrepreneur, web bloggers, to deploy a static website 
 There you go! Your website is online, you can visit it using the provided endpoint url.
   > Click on Static Website Hosting to get the endpoint url.
   
-<details>
-<summary>🔵 My static website using AWS</summary>
-<p> 
+[![website.png](https://i.postimg.cc/VkVtPhb5/website.png)](https://postimg.cc/21ny42Gf)
 
-[![isaac-arnault-aws-5.png](https://i.postimg.cc/k5CscqHK/isaac-arnault-aws-5.png)](https://postimg.cc/pm0KVbRL)
-
-</p>
-</details>
 <hr>
   <a href="http://mywebsitebucket054485.s3-website-us-east-1.amazonaws.com/" tartget="_blank"> Visit my S3 static website</a>
   </div>
