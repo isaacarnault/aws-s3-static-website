@@ -12,16 +12,9 @@ It can help you as a web entrepreneur, web bloggers, to deploy a static website 
 3. Create three files, <b>index.html</b>, <b>error.html</b>, <b>about.html</b><br>
 4. Upload the files in the S3 bucket<br>
 
-<h2>Solution architecture</h2>
-
-<details>
-<summary>🔵 See architecture</summary>
-<p> 
+<h2>Solution architecture</h2> 
   
 [![isaac-arnault-aws-architect.png](https://i.postimg.cc/FH4D7kf4/isaac-arnault-aws-architect.png)](https://postimg.cc/Mv9yLTbP)
-
-</p>
-</details>
 
 <h2>Bucket creation</h2>
 
