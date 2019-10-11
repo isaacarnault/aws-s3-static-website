@@ -16,7 +16,7 @@ You can deploy a similar website for free in about 5 minutes.<br>
 <summary>🔴 See in Atom</summary>
 <p> 
 
-[![2.png](https://i.postimg.cc/8CHW7C7X/2.png)](https://postimg.cc/5HXjGbq8)
+[![2.png](https://i.postimg.cc/vZX2sGQM/2.png)](https://postimg.cc/21b7dRbX)
 
 </p>
 </details>
