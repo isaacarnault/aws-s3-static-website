@@ -14,7 +14,7 @@ It can help you as a web entrepreneur, web bloggers, to deploy a static website 
 
 <h2>Solution architecture</h2> 
   
-[![isaac-arnault-AWS-solution-architect.png](https://i.postimg.cc/k4TZ98Wn/isaac-arnault-AWS-solution-architect.png)](https://postimg.cc/jwJv4D89)
+[![isaac-arnault-AWS-solution-architect.png](https://i.postimg.cc/D0FqCYS0/isaac-arnault-AWS-solution-architect.png)](https://postimg.cc/WFWFz86c)
 
 <h2>Bucket creation</h2>
 
