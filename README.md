@@ -53,8 +53,9 @@ It can help you as a web entrepreneur, web bloggers, to deploy a static website 
 </p>
 </details>
 
-There you go! Your website is online, you can visit it using the provided endpoint url.
   > Click on Static Website Hosting to get the endpoint url.
+  
+There you go! Your website is online, you can visit it using the provided endpoint url.
   
 [![website.png](https://i.postimg.cc/VkVtPhb5/website.png)](https://postimg.cc/21ny42Gf)
 
