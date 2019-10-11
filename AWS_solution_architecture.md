@@ -1,8 +1,8 @@
 <details>
-<summary>🔵 See artchitecture</summary>
+<summary>🔵 See architecture</summary>
 <p> 
   
-[![isaac-arnault-AWS-solution-architect.png](https://i.postimg.cc/k4TZ98Wn/isaac-arnault-AWS-solution-architect.png)](https://postimg.cc/jwJv4D89)
+[![isaac-arnault-AWS-solution-architect.png](https://i.postimg.cc/D0FqCYS0/isaac-arnault-AWS-solution-architect.png)](https://postimg.cc/WFWFz86c)
 
 </p>
 </details>
