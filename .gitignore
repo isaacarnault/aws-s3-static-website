@@ -1,0 +1,15 @@
+ ________  ________  ___  __    ___     
+|\_____  \|\   __  \|\  \|\  \ |\  \    
+ \|___/  /\ \  \|\  \ \  \/  /|\ \  \   
+     /  / /\ \   __  \ \   ___  \ \  \  
+    /  /_/__\ \  \ \  \ \  \\ \  \ \  \ 
+   |\________\ \__\ \__\ \__\\ \__\ \__\
+    \|_______|\|__|\|__|\|__| \|__|\|__|
+                                         
+## log into your AWS Management Console
+
+Log into your AWS management console using https://console.aws.amazon.com.
+
+I'm using MFA to secure my root account access coupled with Google Authenticator on my Android smartphone.
+
+You can bypass this step if you already have a root account on AWS.
