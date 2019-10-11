@@ -1,5 +1,5 @@
-# Creating a static website in 5 minutes using S3 on AWS - Hands-on
-### Tools used: Atom • Programming languages: Html • Cloud platform: AWS • Cloud platform tool: S3
+# Creating a static website in 5 minutes using S3 on AWS
+### • Cloud platform: AWS • Tools used: Atom (Text editor), S3 (AWS) • Programming languages: Html
 
 [![Project Status: Active – The project has reached a stable, usable state and is being actively developed.](https://www.repostatus.org/badges/latest/active.svg)](https://www.repostatus.org/#active)
 
