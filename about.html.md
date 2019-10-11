@@ -7,7 +7,7 @@ Use a text editor to create this file. I'm using `Atom`.
 <p>
 A static website hosted on AWS. <br>
 You can deploy a similar website for free in about 5 minutes. Follow the below instructions: <br>
-https://github.com/isaacarnault/aws-s3-static-website.<br>
+https://github.com/isaacarnault/aws-s3-static-website. <br>
 <b>Good luck!</b>
 </html>
 ```
@@ -16,7 +16,7 @@ https://github.com/isaacarnault/aws-s3-static-website.<br>
 <summary>🔴 See in Atom</summary>
 <p> 
 
-[![isaac-arnault-aws-2.png](https://i.postimg.cc/VNLqyjhK/isaac-arnault-aws-2.png)](https://postimg.cc/QFw91Wh7)
+[![2.png](https://i.postimg.cc/8CHW7C7X/2.png)](https://postimg.cc/5HXjGbq8)
 
 </p>
 </details>
